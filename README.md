@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @devaneil
+- 👀 I’m interested in anything related to Data Science ...
+- 🌱 I’m currently learning how to perform sentiment analysis ...
+- 📫 How to reach me mdevaneil@gmail.com ...
+
+<!---
+devaneil/devaneil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
